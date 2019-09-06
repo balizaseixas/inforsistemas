@@ -43,7 +43,7 @@ object FrmCadastro: TFrmCadastro
     Top = 55
     Width = 754
     Height = 448
-    ActivePage = TabSheet1
+    ActivePage = TabDados
     TabOrder = 1
     OnChange = PageControl1Change
     object TabDados: TTabSheet
@@ -916,7 +916,7 @@ object FrmCadastro: TFrmCadastro
         ParentFont = False
         PasswordChar = '*'
         TabOrder = 3
-        Text = 'pedrobaliza2@'
+        Text = '123456'
       end
       object chkRequerAutenticacao: TCheckBox
         Left = 350

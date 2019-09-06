@@ -14,10 +14,10 @@
     <Transaction>2018/07/02 14:31:47.000.359,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2018/07/02 14:31:54.000.224,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
     <Transaction>2019/05/19 16:54:45.000.286,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/09/05 11:14:07.555,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/09/05 11:15:01.344,D:\Danilo\Teste_InfoSistemas\UPrincipal.dfm=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2019/09/05 11:15:01.344,D:\Danilo\Teste_InfoSistemas\UPrincipal.pas=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2019/09/05 11:15:09.624,D:\Danilo\Teste_InfoSistemas\TesteInforSistemas.dproj=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/09/05 11:14:07.000.555,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/05 11:15:01.000.344,C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Danilo\Teste_InfoSistemas\UPrincipal.dfm</Transaction>
+    <Transaction>2019/09/05 11:15:01.000.344,C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Danilo\Teste_InfoSistemas\UPrincipal.pas</Transaction>
+    <Transaction>2019/09/05 11:15:09.000.624,C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Danilo\Teste_InfoSistemas\TesteInforSistemas.dproj</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<PVbcmacHd_externo iOSSimulator="_iossimulator_831BB09F-70DA-4C4B-B10A-5B7A54F42AAA" iOSDevice64="_iosdevice_231bcfb4a910683be40c367fe2afef75022c19d3" iOSDevice32="_iosdevice_231bcfb4a910683be40c367fe2afef75022c19d3"/>
