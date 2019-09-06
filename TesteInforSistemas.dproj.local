@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/10/23 15:14:20.000.266,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/04 16:13:20.000.668,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/04 16:13:47.000.723,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/02/22 09:55:14.000.091,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/25 17:06:07.000.388,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/25 17:06:21.000.382,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/11/10 14:21:17.000.581,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/02 13:52:16.000.048,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/02 13:52:37.000.583,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/02 14:28:43.000.044,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/02 14:31:47.000.359,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/07/02 14:31:54.000.224,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/19 16:54:45.000.286,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/05 11:14:07.555,=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/05 11:15:01.344,D:\Danilo\Teste_InfoSistemas\UPrincipal.dfm=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/09/05 11:15:01.344,D:\Danilo\Teste_InfoSistemas\UPrincipal.pas=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/09/05 11:15:09.624,D:\Danilo\Teste_InfoSistemas\TesteInforSistemas.dproj=C:\Users\Prog02\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PVbcmacHd_externo iOSSimulator="_iossimulator_831BB09F-70DA-4C4B-B10A-5B7A54F42AAA" iOSDevice64="_iosdevice_231bcfb4a910683be40c367fe2afef75022c19d3" iOSDevice32="_iosdevice_231bcfb4a910683be40c367fe2afef75022c19d3"/>
+		<NoProfile iOSSimulator="iPhone5" Android="Teste"/>
+		<PMiniMac iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
