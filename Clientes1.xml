@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>   
+<Clientes>                                    
+  <Id_Cliente>1</Id_Cliente>                    
+  <Nome>ANA MARIA DOS TESTE</Nome>                    
+  <Identidade>mg15623565</Identidade>      
+  <CPF>04620339610</CPF>         
+  <Telefone>(66)66666-6666</Telefone> 
+  <Email>balizaseixas@gmail.com</Email> 
+  <Endereco>                                       
+    <End1>
+      <Cep>39401-002</Cep>         
+      <Logradouro>TRAVESSA CULA MANGABEIRA</Logradouro>      
+      <Numero>231</Numero>  
+      <Complemento></Complemento>                
+      <Bairro>SANTO EXPEDITO</Bairro>   
+      <Cidade>MONTES CLAROS</Cidade>   
+      <Estado>MG</Estado>   
+      <Pais>BRASIL</Pais>   
+    </End1>
+  </Endereco>  
+</Clientes>                                    
